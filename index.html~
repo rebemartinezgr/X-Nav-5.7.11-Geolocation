@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src = "5.7.11.js"></script>
+	<script type="text/javascript" src="myjQuery.js" charset="utf-8"></script>
+</head>
+<body>
+
+	<p id="demo">Click the button to get your coordinates.</p>
+	<button id = "botontry">Try It</button>
+	<div id="mapholder"></div>
+</body>
+</html>
